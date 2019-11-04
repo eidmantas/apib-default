@@ -4,7 +4,6 @@ For more information on using API Builder please see the [API Builder Getting St
 test 
 ## Running your service
 
-**Run and develop your service**
 
 ```bash
 npm start
