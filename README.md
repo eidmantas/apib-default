@@ -9,10 +9,7 @@ test
 ```bash
 npm start
 ```
-
-## Service configuration
-
-On startup, the service will load and merge all configuration files named `conf/*default.js` or `conf/*local.js`. If a property is configured in both `default.js` and `local.js`, the `local.js` value will take precedence.  Configuration files are applied alphabetically "default" first, and then "local", so that any setting in "local" files, will take precedence over any previously set in "default".
+ "default" first, and then "local", so that any setting in "local" files, will take precedence over any previously set in "default".
 
 ### Local configuration
 
