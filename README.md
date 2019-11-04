@@ -6,13 +6,7 @@ test
 
 
 ```bash
-npm start
-```
- "default" first, and then "local", so that any setting in "local" files, will take precedence over any previously set in "default".
-
-### Local configuration
-
-The local configuration files are explcitly ignored by git, npm, and docker.  Any sensitive keys should be applied to local configuration.
+npm startnored by git, npm, and docker.  Any sensitive keys should be applied to local configuration.
 
 ### Runtime configuration
 
